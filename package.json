@@ -4,6 +4,9 @@
     "description": "",
     "version": "0.0.1",
     "publisher": "karsany",
+    "repository": {
+        "url": "https://github.com/karsany/vscode-ideal-theme"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
