@@ -9,8 +9,6 @@
         "tab.inactiveForeground": "#333333",
         "tab.activeBorder": "#c0c0c0",
         "tab.border": "#c0c0c0",
-        "titleBar.activeBackground": "#018574",
-        "titleBar.activeForeground": "#ffffff",
         "sideBar.background": "#ffffff",
         "sideBar.foreground": "#000000",
         "sideBar.border": "#c0c0c0",
