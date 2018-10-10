@@ -1,5 +1,9 @@
 # IDEA like light Theme
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/karsany.vscode-ideal-theme.svg)](https://marketplace.visualstudio.com/items?itemName=karsany.vscode-ideal-theme)
+[![Version](https://vsmarketplacebadge.apphb.com/installs/karsany.vscode-ideal-theme.svg)](https://marketplace.visualstudio.com/items?itemName=karsany.vscode-ideal-theme)
+
+
 ## Installation
 
 1. Launch Visual Studio Code
