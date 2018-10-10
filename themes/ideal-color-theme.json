@@ -21,7 +21,7 @@
 		"activityBar.border": "#bcbcbc",
 		"statusBar.background": "#f2f2f2",
         "statusBar.foreground": "#000000",
-        "statusBar.border": "#c0c0c0
+        "statusBar.border": "#c0c0c0"
 	},
 	"tokenColors": [
 		{
@@ -71,7 +71,7 @@
 			"scope": "invalid.illegal",
 			"settings": {
 				"background": "#96000014",
-				"foreground": "#660000"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -88,7 +88,8 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#000088",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -98,7 +99,8 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#000000",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -119,7 +121,8 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#880088",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -128,9 +131,8 @@
 				"entity.name.function",
 				"support.function"
 			],
-			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#AA3731"
+			"settings": {				
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -141,8 +143,7 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -174,7 +175,8 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#008800",
+				"fontStyle": "bold"
 			}
 		},
 		{
