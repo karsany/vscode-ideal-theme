@@ -2,8 +2,9 @@
     "name": "vscode-ideal-theme",
     "displayName": "IDEA like light Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "karsany",
+    "preview": true,
     "repository": {
         "url": "https://github.com/karsany/vscode-ideal-theme"
     },
