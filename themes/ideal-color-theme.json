@@ -4,23 +4,24 @@
 	"colors": {
 		"editor.background": "#ffffff",
 		"editor.foreground": "#000000",
-
 		"tab.inactiveBackground": "#d4d4d4",
-        "tab.inactiveForeground": "#333333",
-        "tab.activeBorder": "#c0c0c0",
-        "tab.border": "#c0c0c0",
-        "sideBar.background": "#ffffff",
-        "sideBar.foreground": "#000000",
-        "sideBar.border": "#c0c0c0",
-        "sideBarSectionHeader.background": "#d4d4d4",
-        "editorGutter.background": "#f0f0f0",
-        "editorLineNumber.foreground": "#c1c1c1",
-        "editor.lineHighlightBackground": "#fffae3",
-        "editor.selectionHighlightBackground": "#F6EBBC",
-        "activityBar.background": "#f2f2f2",
-        "activityBar.foreground": "#000000",
-        "activityBar.border": "#bcbcbc"        
-
+		"tab.inactiveForeground": "#333333",
+		"tab.activeBorder": "#c0c0c0",
+		"tab.border": "#c0c0c0",
+		"sideBar.background": "#ffffff",
+		"sideBar.foreground": "#000000",
+		"sideBar.border": "#c0c0c0",
+		"sideBarSectionHeader.background": "#d4d4d4",
+		"editorGutter.background": "#f0f0f0",
+		"editorLineNumber.foreground": "#c1c1c1",
+		"editor.lineHighlightBackground": "#fffae3",
+		"editor.selectionHighlightBackground": "#F6EBBC",
+		"activityBar.background": "#f2f2f2",
+		"activityBar.foreground": "#000000",
+		"activityBar.border": "#bcbcbc",
+		"statusBar.background": "#f2f2f2",
+        "statusBar.foreground": "#000000",
+        "statusBar.border": "#c0c0c0
 	},
 	"tokenColors": [
 		{
