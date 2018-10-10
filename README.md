@@ -1,15 +1,12 @@
 # IDEA like light Theme
 
-## This is the README for your extension "idea-theme"
+## Installation
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. Launch Visual Studio Code
+2. Choose __Extensions__ from menu
+3. Search for `vscode-ideal-theme`
+4. Click __Install__ to install it
+5. Click __Reload__ to reload the Code
+6. From the menu bar click: Code > Preferences > Color Theme > __IDEA like light Theme__
 
 **Enjoy!**
