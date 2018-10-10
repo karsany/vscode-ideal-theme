@@ -1,0 +1,22 @@
+{
+    "name": "idea-theme",
+    "displayName": "idea-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "fkarsany",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Idea Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Idea Theme-color-theme.json"
+            }
+        ]
+    }
+}
