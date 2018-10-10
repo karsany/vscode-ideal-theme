@@ -1,9 +1,9 @@
 {
-    "name": "idea-theme",
-    "displayName": "idea-theme",
+    "name": "vscode-ideal-theme",
+    "displayName": "vscode-ideal-theme",
     "description": "",
     "version": "0.0.1",
-    "publisher": "fkarsany",
+    "publisher": "karsany",
     "engines": {
         "vscode": "^1.28.0"
     },
@@ -13,9 +13,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Idea Theme",
+                "label": "IDEA like light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Idea Theme-color-theme.json"
+                "path": "./themes/ideal-color-theme.json"
             }
         ]
     }
