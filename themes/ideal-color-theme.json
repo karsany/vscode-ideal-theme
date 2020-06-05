@@ -261,6 +261,20 @@
       }
     },
     {
+      "name": "HTML: Attribute Values",
+      "scope": "string.quoted.double.html",
+      "settings": {
+        "fontStyle": "",       
+      }
+    },
+    {
+      "name": "HTML: Css styles in html tags",
+      "scope": "source.css",
+      "settings": {
+        "fontStyle": "",
+      }
+    },
+    {
       "name": "HTML: Entities",
       "scope": [
         "constant.character.entity",
@@ -481,6 +495,14 @@
       }
     },
     {
+      "name": "variable other object js",
+      "scope": "variable.other.object.js",
+      "settings": {
+        "foreground": "#008D90",
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "variable.other.object.property.js",
       "scope": "variable.other.object.property.js",
       "settings": {
@@ -511,13 +533,6 @@
     {
       "name": "string.quoted.single.js",
       "scope": "string.quoted.single.js",
-      "settings": {
-        "fontStyle": ""
-      }
-    },
-    {
-      "name": "variable.other.property.js",
-      "scope": "variable.other.property.js",
       "settings": {
         "fontStyle": ""
       }
@@ -558,6 +573,7 @@
       "scope": "variable.parameter.js",
       "settings": {
         "foreground": "#000000",
+        "fontStyle": ""
       }
     },
     {
